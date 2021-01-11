@@ -1,6 +1,8 @@
 1 RENCANA KONTEN 
 2
 3-javascript 
-4-PHP frameworks
-5-interview 
-6-vlogs
+4 *ES6
+5 *framework javascript
+6-PHP frameworks
+7-interview 
+8-vlogs
