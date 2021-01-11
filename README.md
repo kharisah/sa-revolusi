@@ -1,6 +1,3 @@
 # sa-revolusi
 Repository untuk menyimpan rencana WPU kedepanya
--konsisten untuk membuat konten 2x seminggu
--membuat platfrm untuk pengelolaan vidio
-membuat forum diskuai
 
