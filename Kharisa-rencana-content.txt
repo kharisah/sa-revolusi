@@ -3,6 +3,7 @@
 3-javascript 
 4 *ES6
 5 *framework javascript
-6-PHP frameworks
-7-interview 
-8-vlogs
+6-struktur data dasar
+7-PHP frameworks
+8-interview 
+9-vlogs
