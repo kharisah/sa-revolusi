@@ -3,9 +3,12 @@
 3-javascript 
 4 *ES6
 5 *framework javascript
-6  ^Angular
-7  ^React
-8-PHP frameworks
-9  ^Laravel
-10-interview 
-11-vlogs
+6   ^vue
+7   ^React
+8-struktur data dasar
+9-PHP frameworks
+10 ^Laravel
+11-interview 
+12-vlogs
+13-Phython
+
